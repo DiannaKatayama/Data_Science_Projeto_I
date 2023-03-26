@@ -2,7 +2,7 @@
 Este repositório é destinado ao desenvolvimento do trabalho proposto durante a disciplina "Projeto Aplicado I" do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie.
 
 ## Integrantes
-- Daniel Rodrigues da Silva
+- [Daniel Rodrigues da Silva](https://www.linkedin.com/in/danielrod147/)
 - Dianna [inserir sobrenome]
 - [inserir nomes]
 
