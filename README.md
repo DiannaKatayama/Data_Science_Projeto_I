@@ -25,3 +25,6 @@ Para fins didáticos, apenas o histórico de dados de Setembro/2022 a Fevereiro/
 - **End Station** – Nome da estação de fim da viagem
 - **Bike Number** – ID único da bicicleta utilizada na viagem
 - **Member Type** – Indica se o utilizador é um membro registrado ('registered' - Membro anual, mensal ou de dias fixos), casual ('casual' - viagem única, passe de 5, 3 ou 1 dia)
+
+## Cronograma
+[WIP]
