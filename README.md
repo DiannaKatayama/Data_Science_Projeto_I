@@ -3,7 +3,7 @@ Este repositório é destinado ao desenvolvimento do trabalho proposto durante a
 
 ## Integrantes
 - [Daniel Rodrigues da Silva](https://www.linkedin.com/in/danielrod147/)
-- Dianna [inserir sobrenome]
+- [Dianna Mayumi Santos Katayama Rodrigues](https://www.linkedin.com/in/dianna-katayama-016274216/)
 - [inserir nomes]
 
 ## Objetivo
