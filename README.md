@@ -70,5 +70,3 @@ Para mais detalhes, acessar os [Termos de Uso](https://ride.capitalbikeshare.com
 -	Organizar a apresentação dos resultados gerados e incluir os itens: Problemas encontrados e Fenômenos.
 -	Revisão;
 -	Ensaio da apresentação do grupo (ideal que seja, pelo menos, uma semana antes da data final)
-
-[WIP]
