@@ -38,7 +38,7 @@ Para mais detalhes, acessar os [Termos de Uso](https://ride.capitalbikeshare.com
 ```mermaid
 gantt
 title Cronograma de Atividades - Parte 1
-axisFormat %a - %d/%B
+axisFormat %d/%B
 
 section 1ª Sem
 Aquisição dos datasets da Capital Bikeshare:active, crit, s1a1, 2023-03-26, 7d
@@ -61,7 +61,7 @@ Visualização de histórico de demandas e coletas:active, s4a2, after s3a2, 7d
 ```mermaid
 gantt
 title Cronograma de Atividades - Parte 2
-axisFormat %a - %d/%B
+axisFormat %d/%B
 
 section 5ª Sem
 Identificação e tratamento de outliers e dados: active, s5a1, 2023-04-23, 7d
