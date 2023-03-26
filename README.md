@@ -27,4 +27,50 @@ Para fins didáticos, apenas o histórico de dados de Setembro/2022 a Fevereiro/
 - **Member Type** – Indica se o utilizador é um membro registrado ('registered' - Membro anual, mensal ou de dias fixos), casual ('casual' - viagem única, passe de 5, 3 ou 1 dia)
 
 ## Cronograma
+Cronograma
+
+1º Semana
+-	Aquisição dos datasets da Capital Bike Share;
+-	Entendimento dos dados;
+-	Selecionar as variáveis para a análise.
+
+2º Semana
+-	Definição com base nos datasets de: 
+– média;
+– mediana;
+– desvio padrão;
+– mínimo;
+– máximo; 
+– distribuição;
+
+-	Definição dos métodos de visualização que utilizaremos (sugestão gráficos à serem utilizados: histograma, box plot e densidade).
+
+3º Semana
+-	Correlação das variáveis;
+-	Visualização das correlações geradas (sugestão mapa de calor)
+
+4º Semana
+-	Fazer uma análise de sazonalidade;
+-	Visualização dos períodos e maiores demandas e coletas.
+
+5º Semana
+-	Identificar outliers e tratar os dados;
+-	Analisar os impactos da sazonalidade, tempo de viagem, horários de maior utilização, demandas da bicicletas de acordo com os locais etc;
+
+6º Semana
+-	Propor previsão de demanda das bicicletas;
+-	Definir qual aprendizado de máquina utilizaremos;
+-	Treinar e validar o modelo escolhido.
+
+7º Semana
+-	Avaliar a performance do modelo e possíveis melhorias e ajustes podemos realizar;
+-	Fazer comparativos com abordagens diferentes para enriquecer o estudo;
+
+8º Semana
+-	Organizar a apresentação dos resultados gerados e incluir os itens abaixo:
+– Problemas encontrados;
+– Fenômenos.
+-	Revisão;
+-	Ensaio da apresentação do grupo (ideal que seja, pelo menos uma semana antes da data final)
+
 [WIP]
