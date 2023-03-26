@@ -1,4 +1,4 @@
-# Data Science - Projeto Aplicado I
+# Oferta e Demanda de aluguel de bicicletas da Capital Bikeshare 
 Este repositório é destinado ao desenvolvimento do trabalho proposto durante a disciplina "Projeto Aplicado I" do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie.
 
 ## Integrantes
