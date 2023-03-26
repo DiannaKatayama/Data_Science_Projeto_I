@@ -2,9 +2,11 @@
 Este repositório é destinado ao desenvolvimento do trabalho proposto durante a disciplina "Projeto Aplicado I" do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie.
 
 ## Integrantes
+- Caio Henrique Sestari
+- Caren Marcondes de Oliveira
 - [Daniel Rodrigues da Silva](https://www.linkedin.com/in/danielrod147/)
 - [Dianna Mayumi Santos Katayama Rodrigues](https://www.linkedin.com/in/dianna-katayama-016274216/)
-- [inserir nomes]
+- Vinicius Abdo Girao
 
 ## Objetivo
 Desenvolvimento de um estudo prático sobre dados de utilização de serviços da empresa [Capital Bikeshare](https://capitalbikeshare.com), apresentando dois produtos, a saber: 
