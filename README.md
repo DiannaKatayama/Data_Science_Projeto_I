@@ -35,38 +35,50 @@ A empresa responsável pelos dados garante total liberdade para utilização, mo
 Para mais detalhes, acessar os [Termos de Uso](https://ride.capitalbikeshare.com/data-license-agreement) na íntegra.
 
 ## Cronograma
+```mermaid
+gantt
+title Cronograma de Atividades - Parte 1
+axisFormat %a - %d/%B
 
-1º Semana
--	Aquisição dos datasets da Capital Bike Share;
--	Entendimento dos dados;
--	Selecionar as variáveis para a análise.
+section 1ª Sem
+Aquisição dos datasets da Capital Bikeshare:active, crit, s1a1, 2023-03-26, 7d
+Entendimento dos dados: active, s1a2, 2023-03-26, 7d
+Seleção de variáveis para análise: active, s1a3, 2023-03-26,7d
 
-2º Semana
--	Definição com base nos datasets de: (média, mediana, desvio padrão, mínimo, máximo, distribuição)
--	Definição dos métodos de visualização que utilizaremos (sugestão gráficos à serem utilizados: histograma, box plot e densidade).
+section 2ª Sem
+Avaliação de medidas de centralidade: active, s2a1, after s1a3,7d 
+Caracterização das distribuições de variáveis: active, s2a2, after s1a3, 7d 
+Definição dos métodos de visualização: active, s2a3, after s1a3, 7d
 
-3º Semana
--	Correlação das variáveis;
--	Visualização das correlações geradas (sugestão mapa de calor)
+section 3ª Sem
+Correlação das variáveis: active, s3a1, after s2a3, 7d
+Visualização das correlações geradas (mapa de calor):active, s3a2, after s2a3, 7d
 
-4º Semana
--	Fazer uma análise de sazonalidade;
--	Visualização dos períodos e maiores demandas e coletas.
+section 4ª Sem
+Análise de sazonalidade: active, s4a1, after s3a2, 7d
+Visualização de histórico de demandas e coletas:active, s4a2, after s3a2, 7d
+```
+```mermaid
+gantt
+title Cronograma de Atividades - Parte 2
+axisFormat %a - %d/%B
 
-5º Semana
--	Identificar outliers e tratar os dados;
--	Analisar os impactos da sazonalidade, tempo de viagem, horários de maior utilização, demandas da bicicletas de acordo com os locais etc;
+section 5ª Sem
+Identificação e tratamento de outliers e dados: active, s5a1, 2023-04-23, 7d
+Impactos da sazonalidade:active, s5a2, 2023-04-23, 7d
+Deep dive na duração, rotas e localidades das viagens: active, s5a3, 2023-04-23, 7d
 
-6º Semana
--	Propor previsão de demanda das bicicletas;
--	Definir qual aprendizado de máquina utilizaremos;
--	Treinar e validar o modelo escolhido.
+section 6ª Sem
+Previsão de demanda das bicicletas: active, s6a1, after s5a3, 7d
+Definir modelo de ML:active, s6a2, after s5a3, 7d
+Validar erro do modelo: active, s6a3,after s5a3, 7d
 
-7º Semana
--	Avaliar a performance do modelo e possíveis melhorias e ajustes podemos realizar;
--	Fazer comparativos com abordagens diferentes para enriquecer o estudo;
+section 7ª Sem
+Avaliação de melhorias: active, s7a1, after s6a3, 7d
+Comparativos com diferentes abordagens:active, s7a2, after s6a3, 7d
 
-8º Semana
--	Organizar a apresentação dos resultados gerados e incluir os itens: Problemas encontrados e Fenômenos.
--	Revisão;
--	Ensaio da apresentação do grupo (ideal que seja, pelo menos, uma semana antes da data final)
+section 8ª Sem
+Organização da apresentação de resultados: active, s8a1, after s7a2, 7d
+Revisao:active, s8a2, after s7a2, 7d
+Ensaio de apresentação:active, s8a3, after s7a2, 7d
+```
