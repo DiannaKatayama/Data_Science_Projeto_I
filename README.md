@@ -35,4 +35,40 @@ A empresa responsável pelos dados garante total liberdade para utilização, mo
 Para mais detalhes, acessar os [Termos de Uso](https://ride.capitalbikeshare.com/data-license-agreement) na íntegra.
 
 ## Cronograma
+
+1º Semana
+-	Aquisição dos datasets da Capital Bike Share;
+-	Entendimento dos dados;
+-	Selecionar as variáveis para a análise.
+
+2º Semana
+-	Definição com base nos datasets de: (média, mediana, desvio padrão, mínimo, máximo, distribuição)
+-	Definição dos métodos de visualização que utilizaremos (sugestão gráficos à serem utilizados: histograma, box plot e densidade).
+
+3º Semana
+-	Correlação das variáveis;
+-	Visualização das correlações geradas (sugestão mapa de calor)
+
+4º Semana
+-	Fazer uma análise de sazonalidade;
+-	Visualização dos períodos e maiores demandas e coletas.
+
+5º Semana
+-	Identificar outliers e tratar os dados;
+-	Analisar os impactos da sazonalidade, tempo de viagem, horários de maior utilização, demandas da bicicletas de acordo com os locais etc;
+
+6º Semana
+-	Propor previsão de demanda das bicicletas;
+-	Definir qual aprendizado de máquina utilizaremos;
+-	Treinar e validar o modelo escolhido.
+
+7º Semana
+-	Avaliar a performance do modelo e possíveis melhorias e ajustes podemos realizar;
+-	Fazer comparativos com abordagens diferentes para enriquecer o estudo;
+
+8º Semana
+-	Organizar a apresentação dos resultados gerados e incluir os itens: Problemas encontrados e Fenômenos.
+-	Revisão;
+-	Ensaio da apresentação do grupo (ideal que seja, pelo menos, uma semana antes da data final)
+
 [WIP]
