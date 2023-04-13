@@ -2,9 +2,11 @@
 Este repositório é destinado ao desenvolvimento do trabalho proposto durante a disciplina "Projeto Aplicado I" do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie.
 
 ## Integrantes
+- Caio Henrique Sestari
+- Caren Marcondes de Oliveira
 - [Daniel Rodrigues da Silva](https://www.linkedin.com/in/danielrod147/)
 - [Dianna Mayumi Santos Katayama Rodrigues](https://www.linkedin.com/in/dianna-katayama-016274216/)
-- [inserir nomes]
+- Vinicius Abdo Girao
 
 ## Objetivo
 Desenvolvimento de um estudo prático sobre dados de utilização de serviços da empresa [Capital Bikeshare](https://capitalbikeshare.com), apresentando dois produtos, a saber: 
@@ -19,15 +21,17 @@ A base de dados utilizada está disponível em [Trip History Data](https://s3.am
 
 Para fins didáticos, apenas o histórico de dados de Setembro/2022 a Fevereiro/2023 serão utilizados.
 
-### Descrição das colunas contidas na base:
+### Descrição dos dados:
 
-- **Duration** – Duração da viagem
-- **Start Date** – Data e hora do início da viagem
-- **End Date** – Data e hora do fim da viagem
-- **Start Station** – Nome da estação de início da viagem
-- **End Station** – Nome da estação de fim da viagem
-- **Bike Number** – ID único da bicicleta utilizada na viagem
-- **Member Type** – Indica se o utilizador é um membro registrado ('registered' - Membro anual, mensal ou de dias fixos), casual ('casual' - viagem única, passe de 5, 3 ou 1 dia)
+|**Coluna**|**Descrição**|
+|----------|-------------|
+|Duration|Duração da viagem|
+|Start Date|Data e hora do início da viagem|
+|End Date|Data e hora do fim da viagem|
+|Start Station|Nome da estação de início da viagem|
+|End Station|Nome da estação de fim da viagem|
+|Bike Number|ID único da bicicleta utilizada na viagem|
+|Member Type|Indica se o utilizador é um membro registrado ('registered' - Membro anual, mensal ou de dias fixos), casual ('casual' - viagem única, passe de 5, 3 ou 1 dia)|
 
 ### Termos de uso
 A empresa responsável pelos dados garante total liberdade para utilização, modificação e compartilhamento dos dados, desde que o objetivo do uso não envolva atividades ilegais ou venda dos dados disponibilizados gratuitamente.
