@@ -1,0 +1,3 @@
+# Ignorando arquivos com informações pessoais
+config.py
+__pycache__

@@ -19,7 +19,7 @@ A Capital Bikeshare é uma empresa de responsabilidade da Autoridade de Trânsit
 ## Base de dados
 A base de dados utilizada está disponível em [Trip History Data](https://s3.amazonaws.com/capitalbikeshare-data/index.html), contendo dados sobre a utilização de bicicletas, desde tempo de viagem até destino final e tipo de consumidores.
 
-Para fins didáticos, apenas o histórico de dados de Setembro/2022 a Fevereiro/2023 serão utilizados.
+Para fins didáticos, apenas o histórico de dados de Março/2022 a Março/2023 serão utilizados.
 
 ### Descrição dos dados:
 
