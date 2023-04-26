@@ -1,3 +1,4 @@
 # Ignorando arquivos com informações pessoais
+.env
 config.py
-__pycache__
+__pycache__*
