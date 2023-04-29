@@ -17,7 +17,7 @@ Desenvolvimento de um estudo prático sobre dados de utilização de serviços d
 A Capital Bikeshare é uma empresa de responsabilidade da Autoridade de Trânsito da Área Metropolitana de Washington (Metro DC) que visa facilitar a mobilidade de pessoas fornecendo bicicletas para locomoção por meio de planos e pacotes de serviços, visando menor utilização de veículos emissores de gases do efeito estufa, reduzindo a poluição e intensidade do trâncito.
 
 ## Base de dados
-A base de dados utilizada está disponível em [Trip History Data](https://s3.amazonaws.com/capitalbikeshare-data/index.html), contendo dados sobre a utilização de bicicletas, desde tempo de viagem até destino final e tipo de consumidores.
+A base de dados utilizada está disponível em [Capital BikeShare System Data](https://ride.capitalbikeshare.com/system-data), contendo dados sobre a utilização de bicicletas, desde tempo de viagem até destino final e tipo de consumidores.
 
 Para fins didáticos, apenas o histórico de dados de Março/2022 a Março/2023 serão utilizados.
 
