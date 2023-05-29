@@ -3,10 +3,8 @@ Este repositório é destinado ao desenvolvimento do trabalho proposto durante a
 
 ## Integrantes
 - Caio Henrique Sestari
-- Caren Marcondes de Oliveira
 - [Daniel Rodrigues da Silva](https://www.linkedin.com/in/danielrod147/)
 - [Dianna Mayumi Santos Katayama Rodrigues](https://www.linkedin.com/in/dianna-katayama-016274216/)
-- Vinicius Abdo Girao
 
 ## Objetivo
 Desenvolvimento de um estudo prático sobre dados de utilização de serviços da empresa [Capital Bikeshare](https://capitalbikeshare.com), apresentando dois produtos, a saber: 
@@ -14,7 +12,7 @@ Desenvolvimento de um estudo prático sobre dados de utilização de serviços d
 - Recomendação de locais para amplicação das estações de bicicletas, ou, maior frequência de redistribuição de bicicletas com base na demanda histórica de cada localidade.
 
 ### Sobre a Capital Bikeshare
-A Capital Bikeshare é uma empresa de responsabilidade da Autoridade de Trânsito da Área Metropolitana de Washington (Metro DC) que visa facilitar a mobilidade de pessoas fornecendo bicicletas para locomoção por meio de planos e pacotes de serviços, visando menor utilização de veículos emissores de gases do efeito estufa, reduzindo a poluição e intensidade do trâncito.
+A Capital Bikeshare é uma empresa de responsabilidade da Autoridade de Trânsito da Área Metropolitana de Washington (Metro DC) que visa facilitar a mobilidade de pessoas fornecendo bicicletas para locomoção por meio de planos e pacotes de serviços, visando menor utilização de veículos emissores de gases do efeito estufa, reduzindo a poluição e intensidade do trânsito.
 
 ## Base de dados
 A base de dados utilizada está disponível em [Capital BikeShare System Data](https://ride.capitalbikeshare.com/system-data), contendo dados sobre a utilização de bicicletas, desde tempo de viagem até destino final e tipo de consumidores.
